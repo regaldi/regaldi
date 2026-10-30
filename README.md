@@ -4,7 +4,7 @@
 
 Regaldi LLC develops and supports software for regulated businesses. We work with pharmaceutical and healthcare teams one workflow at a time: the software prepares and runs recurring work, and the licensed professional reviews, decides and signs.
 
-**Website:** [regaldi.ai](https://regaldi.ai) · **Contact:** [office@regaldi.ai](mailto:office@regaldi.ai) · **LinkedIn:** [Regaldi](https://www.linkedin.com/company/108670457/) · **Facebook:** [Regaldi AI](https://www.facebook.com/people/Regaldi-AI/61579920770880/)
+**Website:** [regaldi.ai](https://regaldi.ai) · **Contact:** [office@regaldi.ai](mailto:office@regaldi.ai) · **LinkedIn:** [Regaldi](https://www.linkedin.com/company/108670457/) · **Facebook:** [Regaldi AI](https://www.facebook.com/people/Regaldi-AI/61579920770880/) · **Crunchbase:** [Regaldi](https://www.crunchbase.com/organization/regaled-ai)
 
 3119 W Hallandale Beach Blvd, Ste 102, Hallandale Beach, FL 33009
 
